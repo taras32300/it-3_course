@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="687165ab-11c7-4808-9403-87f0b9d3960d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/observer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/Subscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/SubscriberChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/observer/Mail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/observer/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/observer/Subscriber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/observer/SubscriberChannel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/src/main/java/state/Grant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/src/main/java/state/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/src/main/java/state/grantStates/ApprovedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/src/main/java/state/grantStates/CreatedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/src/main/java/state/grantStates/GrantState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/src/main/java/state/grantStates/RefusedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/src/main/java/state/grantStates/ReviewingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/state.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/target/classes/state/Grant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/target/classes/state/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/target/classes/state/grantStates/ApprovedState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/target/classes/state/grantStates/CreatedState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/target/classes/state/grantStates/GrantState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/target/classes/state/grantStates/RefusedState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../state/target/classes/state/grantStates/ReviewingState.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="taras32300" />
+        <option value="Taras" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Disc D\6 семестр\Информационные технологии\it-3_course\observer\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tgTmaYJzPdKyeL4vU8oYOtTEKE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../state" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="observer.Main" />
+      <module name="observer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="687165ab-11c7-4808-9403-87f0b9d3960d" name="Default Changelist" comment="" />
+      <created>1623189892562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623189892562</updated>
+      <workItem from="1623189896330" duration="989000" />
+      <workItem from="1623309836816" duration="751000" />
+      <workItem from="1623347641543" duration="184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1623190134169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1623190134169" />
+    <state x="511" y="115" key="CommitChangelistDialog2" timestamp="1623348029075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="511" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1623348029075" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1623347722321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1623347722321" />
+    <state width="1877" height="345" key="GridCell.Tab.0.bottom" timestamp="1623347702411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1623347702411" />
+    <state width="1877" height="345" key="GridCell.Tab.0.center" timestamp="1623347702411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1623347702411" />
+    <state width="1877" height="345" key="GridCell.Tab.0.left" timestamp="1623347702411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1623347702411" />
+    <state width="1877" height="345" key="GridCell.Tab.0.right" timestamp="1623347702411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1623347702411" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1623348037847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1623348037847" />
+  </component>
+</project>
